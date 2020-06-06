@@ -28,3 +28,10 @@ If you want to contribute, please review the [contribution guidelines](../../wik
 ## License
 
 [Apache License 2.0](LICENSE)
+
+
+Main File - object_detection.py
+
+You need to download models from TensorFlow/models in your system.
+
+Then you can run object detection.py file
